@@ -21,5 +21,17 @@
    <a href="https://davidivansantoso.github.io/portfolio-app/">
     <img src="https://img.shields.io/badge/Portfolio-_davidivan-green?style=for-the-badge&logo=todoist&logoColor=white" target="_blank">
   </a>
-  
+</div>
+
+<hr/>
+<h2 align="center">
+  Languages-Frameworks-Tools 🛠️
+</h2>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vue,flutter,androidstudio,nodejs,swift" />
+    <img src="https://skillicons.dev/icons?i=js,python,cs,cpp,html,css,bootstrap" /><br>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=ps,ai,figma,xd" /><br>
+  </a>
 </div>
