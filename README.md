@@ -9,7 +9,14 @@
 <br>
 
 <div align="center">
-  [![Gmail](https://img.shields.io/badge/Email-me%20at%20gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidivan6900@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfileName-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidivan6900)
-  [![Instagram](https://img.shields.io/badge/Instagram-YourUsername-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_davidivan/)
+  <a href="mailto:davidivan6900@gmail.com">
+    <img src="https://img.shields.io/badge/Email-me%20at%20gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+    <a href="https://www.linkedin.com/in/davidivan6900">
+    <img src="https://img.shields.io/badge/LinkedIn-YourProfileName-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/_davidivan/">
+    <img src="https://img.shields.io/badge/Instagram-YourUsername-pink?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  
 </div>
