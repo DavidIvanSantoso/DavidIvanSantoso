@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">A fullstack developer who just graduated from Petra Christian University based in Surabaya! </h3>
-<h3 align="center">You can visit my porftolio here! <a href='https://davidivansantoso.github.io/portfolio-app/'></a></h3>
+
 <br>
 
 <div align="center">
@@ -18,8 +18,8 @@
   <a href="https://www.instagram.com/_davidivan/">
     <img src="https://img.shields.io/badge/Instagram-_davidivan-pink?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-   <a href="https://www.instagram.com/_davidivan/">
-    <img src="https://img.shields.io/badge/Instagram-_davidivan-pink?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+   <a href="https://davidivansantoso.github.io/portfolio-app/">
+    <img src="https://img.shields.io/badge/Portfolio-_davidivan-green?style=for-the-badge&logo=todoist&logoColor=white" target="_blank">
   </a>
   
 </div>
