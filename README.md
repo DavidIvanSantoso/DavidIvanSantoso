@@ -12,7 +12,7 @@
   <a href="mailto:davidivan6900@gmail.com">
     <img src="https://img.shields.io/badge/Email-me%20at%20davidivan6900@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-    <a href="https://www.linkedin.com/in/david-ivan6900">
+    <a href="https://www.linkedin.com/in/davidivan6900">
     <img src="https://img.shields.io/badge/LinkedIn-David Ivan Santoso-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="https://www.instagram.com/_davidivan/">
