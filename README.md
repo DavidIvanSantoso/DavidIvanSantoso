@@ -29,7 +29,7 @@
 </h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,flutter,androidstudio,nodejs,swift" />
+    <img src="https://skillicons.dev/icons?i=react,vue,laravel,flutter,androidstudio,nodejs,swift" />
     <img src="https://skillicons.dev/icons?i=js,python,cs,cpp,html,css,bootstrap" /><br>
     <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" /><br>
     <img src="https://skillicons.dev/icons?i=ps,ai,figma,xd" /><br>
