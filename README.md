@@ -18,7 +18,7 @@
   <a href="https://www.instagram.com/_davidivan/">
     <img src="https://img.shields.io/badge/Instagram-_davidivan-pink?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-   <a href="https://davidivansantoso.github.io/portfolio-app/">
+   <a href="https://davidivansantoso.github.io/David-s-New-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-_davidivan-green?style=for-the-badge&logo=todoist&logoColor=white" target="_blank">
   </a>
 </div>
